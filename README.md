@@ -2,10 +2,10 @@
 
 🎓 Double Major Student in Mathematics & Computer Engineering 🎓
 I have always been interested in technology, innovation and understanding the intricate workings of complex systems. That is what fuels my passion for applying mathematical principles to real-world applications through software development.
-🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/c-original.svg" title="C" alt="C" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/> 
